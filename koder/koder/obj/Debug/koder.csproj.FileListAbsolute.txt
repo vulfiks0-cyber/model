@@ -1,0 +1,9 @@
+C:\Users\ansd\source\repos\koder\koder\bin\Debug\koder.exe.config
+C:\Users\ansd\source\repos\koder\koder\bin\Debug\koder.exe
+C:\Users\ansd\source\repos\koder\koder\bin\Debug\koder.pdb
+C:\Users\ansd\source\repos\koder\koder\obj\Debug\koder.csprojAssemblyReference.cache
+C:\Users\ansd\source\repos\koder\koder\obj\Debug\koder.Form1.resources
+C:\Users\ansd\source\repos\koder\koder\obj\Debug\koder.Properties.Resources.resources
+C:\Users\ansd\source\repos\koder\koder\obj\Debug\koder.csproj.GenerateResource.cache
+C:\Users\ansd\source\repos\koder\koder\obj\Debug\koder.exe
+C:\Users\ansd\source\repos\koder\koder\obj\Debug\koder.pdb
